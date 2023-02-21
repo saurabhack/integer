@@ -121,7 +121,8 @@ background-size:cover;
 
 .desk{
     position:absolute;
-    bottom:120px;   
+    bottom:105px; 
+    left:12px;  
 }
 /* start one */
 .manage{
@@ -718,7 +719,7 @@ second start */
     background-color:rgb(245, 239, 239);
     position:absolute;
     bottom:-1010px;
-    left:820px;
+    left:1120px;
     height: 13cm;
     border-radius:12px;
 }
@@ -785,3 +786,811 @@ second start */
     font-weight: lighter;
 }
 /*9 finish*/
+/*10 start*/
+.manage5{
+    width:15%;
+    background-color:rgb(245, 239, 239);
+    position:absolute;
+    bottom:-500px;
+    left:1420px;
+    height: 13cm;
+    border-radius:12px;
+}
+.mix5{
+    position:absolute;
+    left:40px;
+    height: 5cm;
+    bottom:280px;
+    
+
+
+}
+.tox5{
+    width:10%;
+}
+.sale5{
+    position:absolute;
+    bottom:230px;
+    left:30px;
+    width:20%;
+    background-color:darkred;   
+    color:white;
+    height:1cm;
+
+}
+.text5{
+    position:absolute;
+    left:11px;
+    top:-10px;
+}
+.heist5{
+    position:absolute;
+    bottom:120px;
+    left:12px;
+    
+}
+.state5{
+    width:260px;
+}
+.pro_name5{
+    position:absolute;
+    bottom: 90px;
+    left:12px;
+    color:rgb(122, 128, 128);
+    font-size:15px;
+}
+.sym5{
+    width:20%;
+}
+.area5{
+    position:absolute;
+    bottom:70px;
+    left:12px;
+}
+.money5{
+    font-weight:lighter;
+    font-size:20px;
+}
+.rest5{
+    position:absolute;
+    bottom:20px;
+    left:12px;
+    color:rgb(122, 128, 128);
+    font-weight: lighter;
+}
+/*fifth finish*/
+/*start sixth*/
+.manage6{
+    width:15%;
+    background-color:rgb(245, 239, 239);
+    position:absolute;
+    bottom:-1010px;
+    left:220px;
+    height: 13cm;
+    border-radius:12px;
+}
+.mix6{
+    position:absolute;
+    left:40px;
+    height: 5cm;
+    bottom:280px;
+    
+
+
+}
+.tox6{
+    width:10%;
+}
+.sale6{
+    position:absolute;
+    bottom:230px;
+    left:30px;
+    width:20%;
+    background-color:darkred;   
+    color:white;
+    height:1cm;
+
+}
+.tex6{
+    position:absolute;
+    left:11px;
+    top:-10px;
+}
+.heist6{
+    position:absolute;
+    bottom:120px;
+    left:12px;
+    
+}
+.state6{
+    width:260px;
+}
+.pro_name6{
+    position:absolute;
+    bottom: 90px;
+    left:12px;
+    color:rgb(122, 128, 128);
+    font-size:15px;
+}
+.sym6{
+    width:20%;
+}
+.area6{
+    position:absolute;
+    bottom:70px;
+    left:12px;
+}
+.money6{
+    font-weight:lighter;
+    font-size:20px;
+}
+.rest6{
+    position:absolute;
+    bottom:20px;
+    left:12px;
+    color:rgb(122, 128, 128);
+    font-weight: lighter;
+}
+/*sixth finish*/
+/* seventh start */
+
+.manage7{
+    width:15%;
+    background-color:rgb(245, 239, 239);
+    position:absolute;
+    bottom:-1010px;
+    left:520px;
+    height: 13cm;
+    border-radius:12px;
+}
+.mix7{
+    position:absolute;
+    left:40px;
+    height: 5cm;
+    bottom:280px;
+    
+
+
+}
+.tox7{
+    width:10%;
+}
+.sale7{
+    position:absolute;
+    bottom:230px;
+    left:30px;
+    width:20%;
+    background-color:darkred;   
+    color:white;
+    height:1cm;
+
+}
+.tex7{
+    position:absolute;
+    left:11px;
+    top:-10px;
+}
+.heist7{
+    position:absolute;
+    bottom:120px;
+    left:12px;
+    
+}
+.state7{
+    width:260px;
+}
+.pro_name7{
+    position:absolute;
+    bottom: 90px;
+    left:12px;
+    color:rgb(122, 128, 128);
+    font-size:15px;
+}
+.sym7{
+    width:20%;
+}
+.area7{
+    position:absolute;
+    bottom:70px;
+    left:12px;
+}
+.money7{
+    font-weight:lighter;
+    font-size:20px;
+}
+.rest7{
+    position:absolute;
+    bottom:20px;
+    left:12px;
+    color:rgb(122, 128, 128);
+    font-weight: lighter;
+}
+/*7 finish*/
+
+.manage8{
+    width:15%;
+    background-color:rgb(245, 239, 239);
+    position:absolute;
+    bottom:-1010px;
+    left:820px;
+    height: 13cm;
+    border-radius:12px;
+}
+.mix8{
+    position:absolute;
+    left:40px;
+    height: 5cm;
+    bottom:280px;
+    
+
+
+}
+.tox8{
+    width:10%;
+}
+.sale8{
+    position:absolute;
+    bottom:230px;
+    left:30px;
+    width:20%;
+    background-color:darkred;   
+    color:white;
+    height:1cm;
+
+}
+.tex8{
+    position:absolute;
+    left:11px;
+    top:-10px;
+}
+.heist8{
+    position:absolute;
+    bottom:120px;
+    left:12px;
+    
+}
+.state8{
+    width:260px;
+}
+.pro_name8{
+    position:absolute;
+    bottom: 90px;
+    left:12px;
+    color:rgb(122, 128, 128);
+    font-size:15px;
+}
+.sym8{
+    width:20%;
+}
+.area8{
+    position:absolute;
+    bottom:70px;
+    left:12px;
+}
+.money8{
+    font-weight:lighter;
+    font-size:20px;
+}
+.rest8{
+    position:absolute;
+    bottom:20px;
+    left:12px;
+    color:rgb(122, 128, 128);
+    font-weight: lighter;
+}
+/* 8 finish */
+/*9 start*/
+
+.manage9{
+    width:15%;
+    background-color:rgb(245, 239, 239);
+    position:absolute;
+    bottom:-1010px;
+    left:1120px;
+    height: 13cm;
+    border-radius:12px;
+}
+.mix10{
+    position:absolute;
+    left:40px;
+    height: 5cm;
+    bottom:280px;
+    
+
+
+}
+.tox9{
+    width:10%;
+}
+.sale9{
+    position:absolute;
+    bottom:230px;
+    left:30px;
+    width:20%;
+    background-color:darkred;   
+    color:white;
+    height:1cm;
+
+}
+.tex9{
+    position:absolute;
+    left:11px;
+    top:-10px;
+}
+.heist9{
+    position:absolute;
+    bottom:120px;
+    left:12px;
+    
+}
+.state9{
+    width:260px;
+}
+.pro_name9{
+    position:absolute;
+    bottom: 90px;
+    left:12px;
+    color:rgb(122, 128, 128);
+    font-size:15px;
+}
+.sym9{
+    width:20%;
+}
+.area9{
+    position:absolute;
+    bottom:70px;
+    left:12px;
+}
+.money9{
+    font-weight:lighter;
+    font-size:20px;
+}
+.rest9{
+    position:absolute;
+    bottom:20px;
+    left:12px;
+    color:rgb(122, 128, 128);
+    font-weight: lighter;
+}
+/*9 finish*/
+.manage5{
+    width:15%;
+    background-color:rgb(245, 239, 239);
+    position:absolute;
+    bottom:-500px;
+    left:1420px;
+    height: 13cm;
+    border-radius:12px;
+}
+.mix5{
+    position:absolute;
+    left:40px;
+    height: 5cm;
+    bottom:280px;
+    
+
+
+}
+.tox5{
+    width:10%;
+}
+.sale5{
+    position:absolute;
+    bottom:230px;
+    left:30px;
+    width:20%;
+    background-color:darkred;   
+    color:white;
+    height:1cm;
+
+}
+.text5{
+    position:absolute;
+    left:11px;
+    top:-10px;
+}
+.heist5{
+    position:absolute;
+    bottom:120px;
+    left:12px;
+    
+}
+.state5{
+    width:260px;
+}
+.pro_name5{
+    position:absolute;
+    bottom: 90px;
+    left:12px;
+    color:rgb(122, 128, 128);
+    font-size:15px;
+}
+.sym5{
+    width:20%;
+}
+.area5{
+    position:absolute;
+    bottom:70px;
+    left:12px;
+}
+.money5{
+    font-weight:lighter;
+    font-size:20px;
+}
+.rest5{
+    position:absolute;
+    bottom:20px;
+    left:12px;
+    color:rgb(122, 128, 128);
+    font-weight: lighter;
+}
+/*fifth finish*/
+/*start sixth*/
+.manage6{
+    width:15%;
+    background-color:rgb(245, 239, 239);
+    position:absolute;
+    bottom:-1010px;
+    left:220px;
+    height: 13cm;
+    border-radius:12px;
+}
+.mix6{
+    position:absolute;
+    left:40px;
+    height: 5cm;
+    bottom:280px;
+    
+
+
+}
+.tox6{
+    width:10%;
+}
+.sale6{
+    position:absolute;
+    bottom:230px;
+    left:30px;
+    width:20%;
+    background-color:darkred;   
+    color:white;
+    height:1cm;
+
+}
+.tex6{
+    position:absolute;
+    left:11px;
+    top:-10px;
+}
+.heist6{
+    position:absolute;
+    bottom:120px;
+    left:12px;
+    
+}
+.state6{
+    width:260px;
+}
+.pro_name6{
+    position:absolute;
+    bottom: 90px;
+    left:12px;
+    color:rgb(122, 128, 128);
+    font-size:15px;
+}
+.sym6{
+    width:20%;
+}
+.area6{
+    position:absolute;
+    bottom:70px;
+    left:12px;
+}
+.money6{
+    font-weight:lighter;
+    font-size:20px;
+}
+.rest6{
+    position:absolute;
+    bottom:20px;
+    left:12px;
+    color:rgb(122, 128, 128);
+    font-weight: lighter;
+}
+/*sixth finish*/
+/* seventh start */
+
+.manage7{
+    width:15%;
+    background-color:rgb(245, 239, 239);
+    position:absolute;
+    bottom:-1010px;
+    left:520px;
+    height: 13cm;
+    border-radius:12px;
+}
+.mix7{
+    position:absolute;
+    left:40px;
+    height: 5cm;
+    bottom:280px;
+    
+
+
+}
+.tox7{
+    width:10%;
+}
+.sale7{
+    position:absolute;
+    bottom:230px;
+    left:30px;
+    width:20%;
+    background-color:darkred;   
+    color:white;
+    height:1cm;
+
+}
+.tex7{
+    position:absolute;
+    left:11px;
+    top:-10px;
+}
+.heist7{
+    position:absolute;
+    bottom:120px;
+    left:12px;
+    
+}
+.state7{
+    width:260px;
+}
+.pro_name7{
+    position:absolute;
+    bottom: 90px;
+    left:12px;
+    color:rgb(122, 128, 128);
+    font-size:15px;
+}
+.sym7{
+    width:20%;
+}
+.area7{
+    position:absolute;
+    bottom:70px;
+    left:12px;
+}
+.money7{
+    font-weight:lighter;
+    font-size:20px;
+}
+.rest7{
+    position:absolute;
+    bottom:20px;
+    left:12px;
+    color:rgb(122, 128, 128);
+    font-weight: lighter;
+}
+/*7 finish*/
+
+.manage8{
+    width:15%;
+    background-color:rgb(245, 239, 239);
+    position:absolute;
+    bottom:-1010px;
+    left:820px;
+    height: 13cm;
+    border-radius:12px;
+}
+.mix8{
+    position:absolute;
+    left:40px;
+    height: 5cm;
+    bottom:280px;
+    
+
+
+}
+.tox8{
+    width:10%;
+}
+.sale8{
+    position:absolute;
+    bottom:230px;
+    left:30px;
+    width:20%;
+    background-color:darkred;   
+    color:white;
+    height:1cm;
+
+}
+.tex8{
+    position:absolute;
+    left:11px;
+    top:-10px;
+}
+.heist8{
+    position:absolute;
+    bottom:120px;
+    left:12px;
+    
+}
+.state8{
+    width:260px;
+}
+.pro_name8{
+    position:absolute;
+    bottom: 90px;
+    left:12px;
+    color:rgb(122, 128, 128);
+    font-size:15px;
+}
+.sym8{
+    width:20%;
+}
+.area8{
+    position:absolute;
+    bottom:70px;
+    left:12px;
+}
+.money8{
+    font-weight:lighter;
+    font-size:20px;
+}
+.rest8{
+    position:absolute;
+    bottom:20px;
+    left:12px;
+    color:rgb(122, 128, 128);
+    font-weight: lighter;
+}
+/* 8 finish */
+/*9 start*/
+
+.manage9{
+    width:15%;
+    background-color:rgb(245, 239, 239);
+    position:absolute;
+    bottom:-1010px;
+    left:1120px;
+    height: 13cm;
+    border-radius:12px;
+}
+.mix9{
+    position:absolute;
+    left:40px;
+    height: 5cm;
+    bottom:280px;
+    
+
+
+}
+.tox9{
+    width:10%;
+}
+.sale9{
+    position:absolute;
+    bottom:230px;
+    left:30px;
+    width:20%;
+    background-color:darkred;   
+    color:white;
+    height:1cm;
+
+}
+.tex9{
+    position:absolute;
+    left:11px;
+    top:-10px;
+}
+.heist9{
+    position:absolute;
+    bottom:120px;
+    left:12px;
+    
+}
+.state9{
+    width:260px;
+}
+.pro_name9{
+    position:absolute;
+    bottom: 90px;
+    left:12px;
+    color:rgb(122, 128, 128);
+    font-size:15px;
+}
+.sym9{
+    width:20%;
+}
+.area9{
+    position:absolute;
+    bottom:70px;
+    left:12px;
+}
+.money9{
+    font-weight:lighter;
+    font-size:20px;
+}
+.rest9{
+    position:absolute;
+    bottom:20px;
+    left:12px;
+    color:rgb(122, 128, 128);
+    font-weight: lighter;
+}
+/*finish 9*/
+/*start 10*/
+
+.manage10{
+    width:15%;
+    background-color:rgb(245, 239, 239);
+    position:absolute;
+    bottom:-1010px;
+    left:1420px;
+    height: 13cm;
+    border-radius:12px;
+}
+.mix10{
+    position:absolute;
+    left:40px;
+    height: 5cm;
+    bottom:280px;
+    
+
+
+}
+.tox10{
+    width:10%;
+}
+.sale10{
+    position:absolute;
+    bottom:230px;
+    left:30px;
+    width:20%;
+    background-color:darkred;   
+    color:white;
+    height:1cm;
+
+}
+.tex10{
+    position:absolute;
+    left:11px;
+    top:-10px;
+}
+.heist10{
+    position:absolute;
+    bottom:120px;
+    left:12px;
+    
+}
+.state10{
+    width:260px;
+}
+.pro_name10{
+    position:absolute;
+    bottom: 90px;
+    left:12px;
+    color:rgb(122, 128, 128);
+    font-size:15px;
+}
+.sym10{
+    width:20%;
+}
+.area10{
+    position:absolute;
+    bottom:70px;
+    left:12px;
+}
+.money10{
+    font-weight:lighter;
+    font-size:20px;
+}
+.rest10{
+    position:absolute;
+    bottom:20px;
+    left:12px;
+    color:rgb(122, 128, 128);
+    font-weight: lighter;
+}
+/*finish 10*/
+
